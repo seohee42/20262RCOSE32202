@@ -8,3 +8,5 @@
    5. RR
    6. Multilevel Queue
    7. MLFQ
+2. Non-preemptive Scheduling
+3. Preemptive Scheduling
