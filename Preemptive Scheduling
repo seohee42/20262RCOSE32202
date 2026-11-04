@@ -1,0 +1,5 @@
+선점형 스케줄링 (Preemptive Scheduling)
+
+운영체제가 실행 중인 프로세스를 강제로 전환할 수 있음
+주로 Timer interrupt를 기반으로 한 Time sharing 방식을 사용
+프로세스에 할당된 Time slice가 만료되면 하드웨어 타이머가 인터럽트를 발생시키고, 커널이 개입하여 스케줄러를 호출해 CPU를 다른 프로세스에 할당함
