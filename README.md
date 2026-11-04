@@ -3,4 +3,8 @@
 1. CPU scheduling
    1. FCFS
    2. SJF
-   3. Priority Scheduling
+   3. SRTF
+   4. Priority Scheduling
+   5. RR
+   6. Multilevel Queue
+   7. MLFQ
